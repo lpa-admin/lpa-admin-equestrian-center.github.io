@@ -1,0 +1,43 @@
+h1
+{
+	color: red;
+	align-content: center;
+	text-align: center;
+}
+
+h3
+{
+	color: red;
+	align-content: center;
+	text-align: center;
+}
+
+h5
+{
+	color: red;
+	align-content: center;
+	text-align: center;
+}
+
+body
+{
+	background-color: lightyellow;
+}
+
+#ENTETE
+{
+	width: 800px;
+	margin:0 auto;
+	background-color: white;
+	text-align: center;
+	align-content: center;
+}
+
+#inscriptions
+{
+	width: 800px;
+	margin:0 auto;
+	background-color: white;
+	text-align: left;
+	align-content: center;
+}
