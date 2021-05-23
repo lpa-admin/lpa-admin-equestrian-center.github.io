@@ -32,3 +32,12 @@ body
 	text-align: center;
 	align-content: center;
 }
+
+#NUMEROS
+{
+	width: 800px;
+	margin:0 auto;
+	background-color: white;
+	text-align: left;
+	align-content: center;
+}
