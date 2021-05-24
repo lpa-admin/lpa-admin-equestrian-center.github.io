@@ -1,0 +1,40 @@
+h1
+{
+	text-align: center;
+	color: red;
+}
+
+h3
+{
+	text-align: center;
+	color: red;
+}
+
+h5
+{
+	text-align: center;
+	color: red;
+}
+
+body
+{
+	background-color: lightyellow;
+}
+
+#ENTETE
+{
+	width: 800px;
+	margin:0 auto;
+	background-color: white;
+	text-align: center;
+	align-content: center;
+}
+
+#MUSIQUES
+{
+	width: 800px;
+	margin:0 auto;
+	background-color: white;
+	text-align: left;
+	align-content: center;
+}
