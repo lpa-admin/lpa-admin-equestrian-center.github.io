@@ -1,0 +1,28 @@
+body
+{
+	background-color: pink;
+}
+
+#MAMAN
+{
+	width: 800px;
+	margin:0 auto;
+	background-color: lightblue;
+	color: red;
+	text-align: left;
+	align-content: center;
+}
+
+ul
+{
+list-style-type: none;
+}
+
+#AMOURS
+{
+	width: 800px;
+	margin:0 auto;
+	background-color: white;
+	text-align: center;
+	align-content: center;
+}
