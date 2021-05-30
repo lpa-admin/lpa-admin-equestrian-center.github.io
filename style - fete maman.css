@@ -26,3 +26,8 @@ list-style-type: none;
 	text-align: center;
 	align-content: center;
 }
+
+h1
+{
+	text-align: center;
+}
